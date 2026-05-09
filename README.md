@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Arjun Meena
 
 ## 🛠 Tech Stack
-Html HTML5
-
-Css CSS3
+ 
 - Java
 - python
 - HTML  
