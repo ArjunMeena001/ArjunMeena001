@@ -2,12 +2,16 @@
 
 ## 🛠 Tech Stack
 
-- Java  
+- Java
+- python
 - HTML  
-- CSS  
-- JavaScript  
+- CSS
+- bootstrap
+- tailwind css
+- JavaScript
 - React  
-- MySQL  
+- MySQL
+- DBMS | Jdbc
 - Git & GitHub  
 
 ---
