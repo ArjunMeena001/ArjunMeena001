@@ -32,9 +32,9 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: arjunmeena3805@gmail.com  
-- 💼 LinkedIn: Add your LinkedIn link  
-- 🧠 LeetCode: Add your LeetCode link  
-- 🌍 Portfolio: Add your portfolio link  
+- 💼 LinkedIn: www.linkedin.com/in/arjun-meena
+- 🧠 LeetCode: https://leetcode.com/u/arjun_meena001/
+- 🌍 Portfolio:  ? 
 
 ---
 
