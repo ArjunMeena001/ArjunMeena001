@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Arjun Meena
 
-<!--
-**ArjunMeena001/ArjunMeena001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+- Java  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- MySQL  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+- Java Backend Developer  
+- Solved 350+ DSA Problems  
+- Learning React & Full Stack Development  
+- Interested in Software Engineering & Problem Solving  
+
+---
+
+## 📚 DSA & Problem Solving
+
+- Solved 300+ DSA problems on LeetCode & Striver A2Z Sheet
+- Practicing Arrays, Trees, Graphs, Sliding Window, DP, and Recursion
+- Strong focus on time & space complexity optimization
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: arjunmeena3805@gmail.com  
+- 💼 LinkedIn: Add your LinkedIn link  
+- 🧠 LeetCode: Add your LeetCode link  
+- 🌍 Portfolio: Add your portfolio link  
+
+---
+
+💬 Let's connect & build amazing projects together!
